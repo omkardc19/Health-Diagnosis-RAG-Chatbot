@@ -1,0 +1,11 @@
+flask
+bs4
+langchain
+langchain-community
+langchainhub
+langchain-google-genai
+langchain-pinecone
+pandas
+textwrap
+google-generativeai
+pinecone-client
