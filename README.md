@@ -1,7 +1,7 @@
 # Health-Diagnosis-RAG-Chatbot
 ## Submission for Microsoft Hackathon 2024
 
-# How to run?
+## How to run?
 ### STEPS:
 
 Clone the repository
@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
 
 ```ini
+GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+INDEX_NAME = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
