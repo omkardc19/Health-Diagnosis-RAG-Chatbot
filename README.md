@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 
-### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
+### Create a `.env` file in the root directory and add your credentials as follows:
 
 ```ini
 GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>" 
