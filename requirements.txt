@@ -8,3 +8,4 @@ langchain-pinecone
 pandas
 google-generativeai
 pinecone-client
+python-dotenv
