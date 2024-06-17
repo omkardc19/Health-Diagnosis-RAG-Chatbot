@@ -1,5 +1,5 @@
 # Health-Diagnosis-RAG-Chatbot
-## Submission for Microsoft Hackathon 2024
+## Submission for Microsoft's AI Hackathon 2024
 
 ## How to run?
 ### STEPS:
