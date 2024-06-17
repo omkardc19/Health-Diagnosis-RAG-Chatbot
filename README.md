@@ -29,7 +29,8 @@ pip install -r requirements.txt
 ```
 
 
-### STEP 04- Create a `.env` file in the root directory and add your Pinecone credentials as follows:
+### STEP 04- Create a `.env` file in the root directory and add your credentials as follows:
+For MS hackathon submission keys are added in a shared g-drive link in "API_Keys.txt"
 
 ```ini
 GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>" 
