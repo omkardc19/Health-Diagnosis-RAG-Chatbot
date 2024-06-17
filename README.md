@@ -1,7 +1,7 @@
 # Health-Diagnosis-RAG-Chatbot
 ## Submission for Microsoft Hackathon 2024
 
-# How to run?
+## How to run?
 ### STEPS:
 
 ### STEP 01- Clone the repository
@@ -13,7 +13,7 @@ git clone https://github.com/omkardc19/Health-Diagnosis-RAG-Chatbot.git
 ### STEP 02- Create a conda environment after opening the repository
 
 ```bash
-conda create -n hchat python=3.8 -y
+conda create -n hchat python=3.9 -y
 ```
 
 ```bash
@@ -32,4 +32,8 @@ pip install -r requirements.txt
 GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>" 
 PINECONE_API_KEY = "<YOUR-API-KEY-HERE>"
 INDEX_NAME = "<YOUR-INDEX-NAME-HERE>"
+GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>" 
+PINECONE_API_KEY = "<YOUR-API-KEY-HERE>"
+INDEX_NAME = "<YOUR-INDEX-NAME-HERE>"
 ```
+
