@@ -10,3 +10,4 @@ google-generativeai
 pinecone-client
 python-dotenv
 textwrap3
+-e .
