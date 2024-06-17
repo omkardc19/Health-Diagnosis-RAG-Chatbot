@@ -36,12 +36,12 @@ GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>"
 PINECONE_API_KEY = "<YOUR-API-KEY-HERE>"
 INDEX_NAME = "<YOUR-INDEX-NAME-HERE>"
 ```
-### STEP 04- Store vector embeddings to vector database (if data not ingested beforehand to vector database- Pinecone here)
+### STEP 05- Store vector embeddings to vector database (if data not ingested beforehand to vector database- Pinecone here)
 ```bash
 # run the following command
 python data_ingestion.py
 ```
-### STEP 05- Run the app
+### STEP 06- Run the app
 ```bash
 # Finally run the following command
 python app.py
