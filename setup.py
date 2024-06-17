@@ -1,5 +1,6 @@
 from setuptools import find_packages, setup
 
+# Create the setup function
 setup(
     name = 'Health Diagnosis RAG Chatbot',
     version= '0.0.0',
