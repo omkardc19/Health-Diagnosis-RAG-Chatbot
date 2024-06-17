@@ -15,9 +15,8 @@ file_list = [
     "app.py",
     "data_ingestion.py",
     "static/.gitkeep",
-    "templates/chat.html",
-    "config.py",
-    "test.py"
+    "templates/chat.html"
+
 
 ]
 
