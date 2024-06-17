@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 file_list = [
     "src/__init__.py",
     "src/helper.py",
-    "src/prompt.py",
+    "src/prompt_template.py",
     ".env",
     "setup.py",
     "research/expt_notebook.ipynb",
