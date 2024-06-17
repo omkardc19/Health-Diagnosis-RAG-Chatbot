@@ -45,7 +45,7 @@ try:
     # Initialize the language model
     model = ChatGoogleGenerativeAI(
         model="gemini-1.5-flash",
-        temperature=0.8,
+        temperature=0.5,
         max_output_tokens=512
     )
 
