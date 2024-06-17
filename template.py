@@ -13,7 +13,7 @@ file_list = [
     "setup.py",
     "research/expt_notebook.ipynb",
     "app.py",
-    "store_index.py",
+    "data_ingestion.py",
     "static/.gitkeep",
     "templates/chat.html",
     "config.py",
