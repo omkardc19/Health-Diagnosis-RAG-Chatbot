@@ -4,13 +4,13 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
+### STEP 01- Clone the repository
 
 ```bash
-Project repo: https://github.com/omkardc19/Health-Diagnosis-RAG-Chatbot.git
+git clone https://github.com/omkardc19/Health-Diagnosis-RAG-Chatbot.git
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### STEP 02- Create a conda environment after opening the repository
 
 ```bash
 conda create -n hchat python=3.8 -y
@@ -20,15 +20,16 @@ conda create -n hchat python=3.8 -y
 conda activate hchat
 ```
 
-### STEP 02- install the requirements
+### STEP 03- install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
 
-### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
+### STEP 03- Create a `.env` file in the root directory and add your Pinecone credentials as follows:
 
 ```ini
-PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GOOGLE_API_KEY = "<YOUR-API-KEY-HERE>" 
+PINECONE_API_KEY = "<YOUR-API-KEY-HERE>"
+INDEX_NAME = "<YOUR-INDEX-NAME-HERE>"
 ```
