@@ -1,6 +1,6 @@
 # Health-Diagnosis-RAG-Chatbot
 ## Submission for Microsoft's AI Hackathon 2024
-##  [Submission video](https://www.youtube.com/watch?v=example)
+##  [Submission video](https://www.youtube.com/watch?v=GsqMZ5387_Q)
 
 ## How to run?
 ### STEPS:
